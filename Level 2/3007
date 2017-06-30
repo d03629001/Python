@@ -1,0 +1,57 @@
+3007. 最大的數字
+I'm a slow walker, but I never walk backwards.
+
+我的提交狀況
+ 
+狀態
+ 
+統計
+ 
+班統計
+ 
+班期統計
+ 
+解題思路
+小練習 說明
+
+請輸入3個數字並找到其中最大的數字
+
+Input Format
+
+數字1
+數字1
+數字1
+
+Output Format
+
+最大的數字
+
+Sample Input
+
+99
+66
+57
+Sample Output
+
+99
+Hint
+
+ 
+Submit
+
+
+程式語言  
+原始碼  
+提交
+Testdata Set
+
+Subtask 0 (25%): 1 s, 64 MB
+Subtask 1 (25%): 1 s, 64 MB
+Subtask 2 (25%): 1 s, 64 MB
+Subtask 3 (25%): 1 s, 64 MB
+Discussion
+
+
+Instructor Pangfeng Liu, Web designer Akira, Peer4321, Maplewing, Morris, Jie-Fan, Chang
+
+Powered by Nodejs © 2015 NTU PDP Lab
