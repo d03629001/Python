@@ -1,0 +1,67 @@
+3030. 引入模組+格式化輸出
+I'm a slow walker, but I never walk backwards.
+
+My Status
+ 
+Status
+ 
+Statistics
+ 
+Class Statistics
+ 
+Period Statistics
+ 
+Solution
+說明
+
+台北市公館大學某系某科的段考特別難，老師決定幫大家調分，調分規則如下：
+原始分數開根號乘以10
+
+
+使用者輸入分數，並列印出原始分數以及調分後的分數
+
+Input Format
+
+整數(int)或幅點數(float)
+
+Output Format
+
+Original: 分數 (小數點後2位)
+Adjusted: 分數(+差幾分(四捨五入至整數)) (小數點後2位)
+
+Sample Input 1
+
+36
+Sample Output 1
+
+Original: 36.00
+Adjusted: 60.00(+24)
+Sample Input 2
+
+50
+Sample Output 2
+
+Original: 50.00
+Adjusted: 70.71(+21)
+Hint
+
+1. 引入math模組來計算根號 math.sqrt()
+Submit
+
+
+Language  
+Source Code  
+Submit
+Testdata Set
+
+Subtask 0 (20%): 1 s, 64 MB
+Subtask 1 (20%): 1 s, 64 MB
+Subtask 2 (20%): 1 s, 64 MB
+Subtask 3 (20%): 1 s, 64 MB
+Subtask 4 (20%): 1 s, 64 MB
+Discussion
+
+
+Instructor Pangfeng Liu, Web designer Akira, Peer4321, Maplewing, Morris, Jie-Fan, Chang
+
+Powered by Nodejs © 2015 NTU PDP Lab
