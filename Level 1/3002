@@ -1,0 +1,40 @@
+3002. 梯型面積II
+I'm a slow walker, but I never walk backwards.
+
+解題思路
+說明
+
+
+請算出梯型面積
+使用者可依序輸入上底、下底、高
+並輸出計算結果
+
+Input Format
+
+上底、下底、高
+
+Output Format
+
+輸出結果 (僅顯示小數點後一位)
+
+Sample Input
+
+10
+15
+7
+Sample Output
+
+87.5
+Hint
+
+No Hint
+Submit
+
+
+程式語言  
+原始碼  
+提交
+Testdata Set
+
+Subtask 0 (50%): 1 s, 64 MB (10 15 7)
+Subtask 1 (50%): 1 s, 64 MB (10 15 9)
