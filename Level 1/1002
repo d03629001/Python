@@ -1,0 +1,50 @@
+1002. 兩數相加
+I'm a slow walker, but I never walk backwards.
+
+My Status
+ 
+Status
+ 
+Statistics
+ 
+Class Statistics
+ 
+Period Statistics
+ 
+Solution
+說明
+
+輸入兩個小數, 印出兩者相加的結果 (輸出小數後兩位)
+
+Input Format
+
+數字1
+數字2
+
+Output Format
+
+輸出結果
+※ 「+」號與「=」號左右各有一「空白」字元
+
+Sample Input
+
+5.1
+2.3
+Sample Output
+
+5.10 + 2.30 = 7.40
+Hint
+
+No Hint
+Submit
+
+
+Language  
+Source Code  
+Submit
+Testdata Set
+
+Subtask 0 (25%): 1 s, 64 MB
+Subtask 1 (25%): 1 s, 64 MB
+Subtask 2 (25%): 1 s, 64 MB
+Subtask 3 (25%): 1 s, 64 MB
