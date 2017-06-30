@@ -1,0 +1,56 @@
+3036. 輸入與輸出
+I'm a slow walker, but I never walk backwards.
+
+我的提交狀況
+ 
+狀態
+ 
+統計
+ 
+班統計
+ 
+班期統計
+ 
+解題思路
+說明
+
+請輸入一人之 姓名、年齡與性別，並將其列印在螢幕上。
+
+Input Format
+
+姓名
+年齡
+性別
+
+Output Format
+
+字串
+數字
+字串
+
+Sample Input
+
+史帝夫工作
+65
+男
+Sample Output
+
+Name:史帝夫工作
+Age:65
+Gender:男
+Hint
+
+本題 C/C++ 須使用字串方才可以進行輸入與輸出。
+
+Submit
+
+
+程式語言  
+原始碼  
+提交
+Testdata Set
+
+Subtask 0 (25%): 1 s, 64 MB (John 50 M)
+Subtask 1 (25%): 1 s, 64 MB (撣喳鱓銋钅�60�琸)
+Subtask 2 (25%): 1 s, 64 MB (�蟮撣嘥井撌乩��65�琸)
+Subtask 3 (25%): 1 s, 64 MB (暺�𤏸䌊�眏鈭�50�����飛摰�)
