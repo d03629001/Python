@@ -1,0 +1,48 @@
+3001. 梯型面積I
+I'm a slow walker, but I never walk backwards.
+
+我的提交狀況
+ 
+狀態
+ 
+統計
+ 
+班統計
+ 
+班期統計
+ 
+解題思路
+說明
+
+
+請算出此梯型面積
+上底：10cm
+下底：15cm
+高：7cm
+
+Input Format
+
+沒有輸入
+
+Output Format
+
+輸出結果
+
+Sample Input
+
+ 
+Sample Output
+
+15
+Hint
+
+No Hint
+Submit
+
+
+程式語言  
+原始碼  
+提交
+Testdata Set
+
+Subtask 0 (100%): 1 s, 64 MB
