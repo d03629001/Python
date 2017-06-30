@@ -1,0 +1,61 @@
+3006. 獎學金額判斷程式
+I'm a slow walker, but I never walk backwards.
+
+我的提交狀況
+ 
+狀態
+ 
+統計
+ 
+班統計
+ 
+班期統計
+ 
+解題思路
+小練習 說明
+
+獎學金額判斷程式
+若你的分數達95分以上
+得獎金 2000 元
+若是90分以上到94分
+得獎金 1000 元
+若是80分以上到89分
+得獎金 500 元
+若不到80分則無獎金
+得獎金 0 元
+
+Input Format
+
+成績
+
+Output Format
+
+獎金
+
+Sample Input
+
+95
+Sample Output
+
+獎金 2000 元
+Hint
+
+ 
+Submit
+
+
+程式語言  
+原始碼  
+提交
+Testdata Set
+
+Subtask 0 (25%): 1 s, 64 MB
+Subtask 1 (25%): 1 s, 64 MB
+Subtask 2 (25%): 1 s, 64 MB
+Subtask 3 (25%): 1 s, 64 MB
+Discussion
+
+
+Instructor Pangfeng Liu, Web designer Akira, Peer4321, Maplewing, Morris, Jie-Fan, Chang
+
+Powered by Nodejs © 2015 NTU PDP Lab
