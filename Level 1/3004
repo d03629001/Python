@@ -1,0 +1,40 @@
+3004. 圓面積II
+I'm a slow walker, but I never walk backwards.
+
+My Status
+ 
+Status
+ 
+Statistics
+ 
+Class Statistics
+ 
+Period Statistics
+ 
+Solution
+小練習 說明
+
+令使用者輸入半徑
+請列出圓形之圓週率，半徑，圓周長及圓面積
+
+Input Format
+
+半徑
+
+Output Format
+
+圓周率，半徑，圓周長及圓面積
+
+Sample Input
+
+100
+Sample Output
+
+圓周率 3.141592653589793
+半徑 100
+圓周長 628.3185307179587
+圓面積 31415.926535897932
+Hint
+
+import math
+math.pi
