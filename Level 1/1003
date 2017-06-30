@@ -1,0 +1,23 @@
+
+1003. 三數簡易計算I'm a slow walker, but I never walk backwards. 
+My Status Status Statistics Class Statistics Period Statistics Solution
+說明撰寫一個程式，先從鍵盤輸入三個整數，然後顯示此三個整數的總和、平均值、乘積、最小值和最大值。螢幕的對話過程應該如下所述。
+Input Format整數1整數2整數3
+Output Format總和平均積最小值最大值
+Sample Input13
+27
+14
+Sample Outputsum is 54
+average is 18.00
+product is 4914
+smallest is 13
+largest is 27
+HintNo Hint
+SubmitLanguage  				 				 				 				 				 					C (gcc -std=c99 -O2)  				 					C++ (gcc -std=c99 -O2)  				 					C# 3.0 (mcs -langversion:3)  				 					Python 3 (python3)  				 					Scala 2 (scalac -optimise)  				 				
+Source Code 
+Submit
+Testdata SetSubtask 0 (50%): 1 s, 64 MBSubtask 1 (50%): 1 s, 64 MB
+Discussion
+Instructor Pangfeng Liu, Web designer Akira, Peer4321, Maplewing, Morris, Jie-Fan, Chang
+
+Powered by Nodejs © 2015 NTU PDP Lab
